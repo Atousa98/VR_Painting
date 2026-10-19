@@ -13,10 +13,12 @@
 
 [![Watch Demo Video](https://img.shields.io/badge/GitHub_Release-Watch_Demo_Video-blue?style=for-the-badge&logo=github)](https://github.com/atousasque/My_Portfolio/releases/download/v1.10.0/Atousa_Garousian.mp4)
 
-> 🎥 **Interactive Gameplay & Prototype Walkthrough:**  
-> [Click here to view/download the high-resolution prototype demonstration]([YOUR_RELEASE_VIDEO_DIRECT_LINK_HERE](https://github.com/atousasque/My_Portfolio/releases/download/v1.10.0/Atousa_Garousian.mp4)) showcasing pigment drag, dynamic proximity scaling, and contact haptics.
+## 🎬 System Demonstration
 
-> 🎥 **Direct Video Link:** [Download / View Prototype Video Demo](YOUR_RELEASE_VIDEO_DIRECT_LINK_HERE)
+[![Watch Demo Video](https://img.shields.io/badge/GitHub_Release-Watch_Demo_Video-blue?style=for-the-badge&logo=github)](https://github.com/atousasque/My_Portfolio/releases/download/v1.10.0/Atousa_Garousian.mp4)
+
+> 🎥 **Interactive Gameplay & Prototype Walkthrough:**  
+> [Click here to view/download the high-resolution prototype demonstration](https://github.com/atousasque/My_Portfolio/releases/download/v1.10.0/Atousa_Garousian.mp4) showcasing pigment drag, dynamic proximity scaling, and contact haptics.
 >
 ## Overview
 
