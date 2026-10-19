@@ -9,7 +9,12 @@
 > Master's Programme in Interactive Media, University of Applied Sciences Upper Austria (FH Hagenberg).
 
 ---
+## 🎬 Prototype Demonstration
 
+[![VirtuArt VR Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+> 📹 **[Watch the Interactive Gameplay & Prototype Demo:]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/atousasque/My_Portfolio/releases/download/v1.10.0/Atousa_Garousian.mp4))**
+>
 ## Overview
 
 **VirtuArt** investigates how intentionally preserved interaction friction and embodied physical constraints in Virtual Reality can bridge the gap in appreciating minimalist and traditional fine art. Unlike mainstream commercial VR creative applications (such as Tilt Brush or Open Brush) that prioritize algorithmic smoothing, frictionless undo mechanisms, and geometric stabilization, VirtuArt is engineered as an embodied perceptual instrument.
