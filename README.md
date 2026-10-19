@@ -9,11 +9,13 @@
 > Master's Programme in Interactive Media, University of Applied Sciences Upper Austria (FH Hagenberg).
 
 ---
-## 🎬 Prototype Demonstration
+## 🎬 System Demonstration
 
-[![VirtuArt VR Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+<video src="[YOUR_RELEASE_VIDEO_DIRECT_LINK_HERE](https://github.com/atousasque/My_Portfolio/releases/download/v1.10.0/Atousa_Garousian.mp4)" controls="controls" width="100%" style="max-height: 480px;">
+  Your browser does not support the video tag.
+</video>
 
-> 📹 **[Watch the Interactive Gameplay & Prototype Demo:]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/atousasque/My_Portfolio/releases/download/v1.10.0/Atousa_Garousian.mp4))**
+> 🎥 **Direct Video Link:** [Download / View Prototype Video Demo](YOUR_RELEASE_VIDEO_DIRECT_LINK_HERE)
 >
 ## Overview
 
